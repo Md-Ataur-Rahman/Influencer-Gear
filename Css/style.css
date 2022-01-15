@@ -288,9 +288,8 @@ header {
 
 .form-section {
   max-width: 50%;
-  height: 70vh;
+  min-height: 50vh;
   margin: 0 auto;
-  padding: 10rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
